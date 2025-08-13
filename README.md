@@ -117,4 +117,3 @@ Le pipeline se déclenche sur chaque **push** ou **pull_request** vers la branch
 - Qualité code : SonarQube
 - Déploiement infra : Ansible
 
-# trigger ci
