@@ -116,3 +116,5 @@ Le pipeline se déclenche sur chaque **push** ou **pull_request** vers la branch
 - Observabilité : Prometheus + Grafana
 - Qualité code : SonarQube
 - Déploiement infra : Ansible
+
+# trigger ci
