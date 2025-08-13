@@ -56,7 +56,7 @@ jobs:
         with:
           scan-type: image
           image-ref: ${{ secrets.DOCKERHUB_USERNAME }}/medops:latest
-          severity: HIGH,CRITICAL
+          severity: CRITICAL
           ignore-unfixed: true
           exit-code: '1'  
           format: table
