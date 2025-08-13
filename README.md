@@ -1,5 +1,7 @@
 # MedOps – API de supervision minimale (FastAPI)
 
+![CI Status](https://github.com/oumaimaekdo/medops/actions/workflows/ci.yml/badge.svg)
+
 ## 📌 Présentation
 **MedOps** est une API REST légère développée avec **FastAPI**, conçue pour illustrer un pipeline complet **DevOps / DevSecOps** incluant CI/CD, tests automatisés, audit de sécurité, conteneurisation et déploiement.
 Bien que minimaliste (endpoint /health), elle constitue une base solide pour construire des services plus complexes.
